@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Cuba Libre",
+      "precio": 20,
+      "id": 1
+    },
+    {
+      "nombre": "Shot de Tequila",
+      "precio": 15,
+      "id": 2
+    },
+    {
+      "nombre": "Cerveza",
+      "precio": 8,
+      "id": 3
+    },
+    {
+      "nombre": "Margarita",
+      "precio": 25,
+      "id": 4
+    }
+  ]
+}
